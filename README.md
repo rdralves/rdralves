@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trabalho como motorista de aplicativo e sou estudante de programação Python, Flask e Django.
+Estudante de programação Python, Flask e Django.
 
 
 # 💻 Tech Stack:
