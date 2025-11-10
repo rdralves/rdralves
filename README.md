@@ -44,7 +44,7 @@ Aplicação para rastreamento e registro de atividades.
 ---
 
 ## 🌐 Contato
-- 📧 Email: rodrigo.alves.reis.dev@gmail.com  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-alves-dos-reis/)  
 - 🌍 [Portfólio](https://rdralves.github.io/)  
 
