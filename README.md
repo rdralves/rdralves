@@ -1,18 +1,52 @@
-# 💫 About Me:
-Amando programação!<br>Atualmente estou praticando programação estudando, Python com Flask.<br>
+# 👋 Olá, eu sou Rodrigo Alves dos Reis
 
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rdr_py) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rdralves&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rdralves&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdralves&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎯 **Desenvolvedor Python & Web**  
+Apaixonado por programação, especializado em **Flask** e **Django**, criando soluções web robustas e sistemas de gestão eficientes.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rdralves&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Sobre Mim
+- 💻 Atualmente praticando e desenvolvendo projetos com **Python + Flask**  
+- 📚 Sempre em busca de novos desafios e tecnologias para aprimorar minhas habilidades  
+- 🌐 Experiência em desenvolvimento de aplicações web responsivas e integração com bancos de dados  
+- 🔒 Foco em segurança, escalabilidade e boas práticas de programação  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, JavaScript, HTML, CSS  
+- **Frameworks:** Flask, Django  
+- **Banco de Dados:** SQLite, PostgreSQL  
+- **Ferramentas:** Git, GitHub, VS Code, Docker  
+- **Outros:** Jinja2, WTForms, Flask-Login  
+
+---
+
+## 📂 Projetos em Destaque
+### 🚗 [Sistema de Frotas](https://github.com/rdralves/sistema-frotas)
+Aplicação web para gerenciamento de frotas, com autenticação segura, dashboard restrito e arquitetura modular.  
+**Stack:** Flask, SQLite/PostgreSQL, Jinja2, WTForms, Flask-Login  
+
+### 📦 [Controle de Produtos](https://github.com/rdralves/controle-produtos)
+Sistema de gestão de estoque com CRUD de produtos, relatórios e exportação de dados.  
+**Stack:** Django, Bootstrap, SQLite  
+
+### 🛰️ [Tracklog](https://github.com/rdralves/tracklog)
+Aplicação para rastreamento e registro de atividades.  
+**Stack:** Python, Flask  
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdralves&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdralves&layout=compact&theme=radical)
+
+---
+
+## 🌐 Contato
+- 📧 Email: rodrigo.alves.reis.dev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-alves-dos-reis/)  
+- 🌍 [Portfólio](https://rdralves.github.io/)  
+
+---
+✨ Sempre aprendendo, sempre evoluindo!
